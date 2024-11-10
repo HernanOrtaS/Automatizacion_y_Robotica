@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+__pycache__/
+*.log
+.idea/
+.vscode/
+
+
+# Ignora las librerias, se requieren instalar con request
+Unidad02/Proyecto01/ImagenesTensorflow/Lib/site-packages/
+
+# Ignorar la carpeta Carpeta_Modelos dentro de la carpeta main
+Unidad02/Proyecto01/ImagenesTensorflow/main/Carpeta_Modelos/
+
